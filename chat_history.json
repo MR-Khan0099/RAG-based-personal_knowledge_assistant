@@ -1,0 +1,10 @@
+[
+  {
+    "question": "what is bci",
+    "answer": "A Brain-Computer Interface (BCI) is a system that enables direct communication between the human brain and external devices without the need for physical movement, speech, or muscular activity. It allows users to control computers, robots, or other machines using only their brain signals. BCIs are particularly important for individuals with physical disabilities as they offer new ways to interact with the world around them."
+  },
+  {
+    "question": "bci paradigm",
+    "answer": "BCI paradigm refers to the design of tasks or stimuli that are used in Brain-Computer Interface systems to interpret the user's intentions from brain signals. Some widely studied BCI paradigms include Motor Imagery (MI), P300, and Steady-State Visual Evoked Potentials (SSVEP). These paradigms are crucial for effective brain-computer interaction and are tailored to the specific needs of the user and application to ensure relevance and efficacy. The goal is to create user-friendly BCI paradigms that are highly separable, easily executable, safe, and enjoyable to promote the practical adoption and effectiveness of BCI technology."
+  }
+]

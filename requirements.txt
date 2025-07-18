@@ -1,0 +1,45 @@
+# langchain core
+langchain
+langchain-core
+langchain-community
+langchain-chroma
+langchain-faiss
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# DeepSeek Integration
+langchain-deepseek
+deepseek
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# huggingface Integration
+langchain-huggingface
+transformers
+huggingface
+
+# Environment
+python-dotenv
+pydantic
+
+numpy
+scipy
+scikit-learn
+
+grandalf
+
+pypdf
+# --- For Streamlit GUI and Pinecone ---
+streamlit
+pinecone
+# --- For document loaders ---
+unstructured
+python-docx
+markdown 
